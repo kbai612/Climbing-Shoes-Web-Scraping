@@ -21,12 +21,10 @@ You will also need to have Anaconda on your machine. You can download the latest
 
 ### Installing
 
-**Note**
-> Make Sure to have the picture named as pic.jpg in the same directory as the python program.
 ## Running the Program
 To run the program, simply execute the following command in your terminal:
 ```
-python main.py
+Web Scraping MEC.ipynb
 ```
 The A* algorithm will begin running to find the optimal path to reconstruct the image. Once the algorithm has finished, the reconstructed image will be displayed.
 ## Built with:
