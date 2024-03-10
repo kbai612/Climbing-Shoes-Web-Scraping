@@ -26,7 +26,6 @@ To run the program, simply execute the following command in your terminal:
 ```
 Web Scraping MEC.ipynb
 ```
-The A* algorithm will begin running to find the optimal path to reconstruct the image. Once the algorithm has finished, the reconstructed image will be displayed.
 ## Built with:
 - Python3 - Programming Language Used
 ## Results
